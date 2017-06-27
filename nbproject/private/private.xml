@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="6">
+        <file>
+            <url>models/User.php</url>
+            <bookmark id="6">
+                <name/>
+                <line>62</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/controllers/AdminCatalogController.php</file>
+            <file>file:/C:/wamp/www/components/AdminBase.php</file>
+            <file>file:/C:/wamp/www/index.php</file>
+            <file>file:/C:/wamp/www/components/autoLoad.php</file>
+            <file>file:/C:/wamp/www/components/Router.php</file>
+        </group>
+    </open-files>
+</project-private>

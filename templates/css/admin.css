@@ -1,0 +1,11 @@
+
+/* 
+    Created on : 25.02.2017, 20:22:07
+    Author     : Озармехр
+*/
+table thead tr>td,table tbody tr>td {
+    text-align: center;
+}
+.navbar{
+    border-radius: 0px;
+}
